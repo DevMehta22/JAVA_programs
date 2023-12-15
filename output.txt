@@ -1,0 +1,10 @@
+std1,80
+std2,66
+std3,70
+std4,42
+std5,60
+std6,75
+std7,53
+std8,80
+std9,65
+std10,100
